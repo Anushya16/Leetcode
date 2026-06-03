@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Anushya16/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/Anushya16/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anushya16/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3161-block-placement-queries](https://github.com/Anushya16/Leetcode/tree/master/3161-block-placement-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anushya16/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Anushya16/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Anushya16/Leetcode/tree/master/0367-valid-perfect-square) |
+| [3161-block-placement-queries](https://github.com/Anushya16/Leetcode/tree/master/3161-block-placement-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -194,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anushya16/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Anushya16/Leetcode/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Anushya16/Leetcode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
