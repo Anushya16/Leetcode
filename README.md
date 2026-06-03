@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Anushya16/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Anushya16/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/Anushya16/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anushya16/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Simulation
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anushya16/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Anushya16/Leetcode/tree/master/0242-valid-anagram) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anushya16/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Tree
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Anushya16/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1871-jump-game-vii](https://github.com/Anushya16/Leetcode/tree/master/1871-jump-game-vii) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anushya16/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
