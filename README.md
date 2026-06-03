@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Anushya16/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anushya16/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anushya16/Leetcode/tree/master/0412-fizz-buzz) |
+| [1871-jump-game-vii](https://github.com/Anushya16/Leetcode/tree/master/1871-jump-game-vii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushya16/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Anushya16/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1871-jump-game-vii](https://github.com/Anushya16/Leetcode/tree/master/1871-jump-game-vii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anushya16/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushya16/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Anushya16/Leetcode/tree/master/0509-fibonacci-number) |
+| [1871-jump-game-vii](https://github.com/Anushya16/Leetcode/tree/master/1871-jump-game-vii) |
 ## Memoization
 |  |
 | ------- |
@@ -180,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Anushya16/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1871-jump-game-vii](https://github.com/Anushya16/Leetcode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
