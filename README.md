@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Anushya16/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Anushya16/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anushya16/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Anushya16/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Anushya16/Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Anushya16/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anushya16/Leetcode/tree/master/0412-fizz-buzz) |
@@ -106,4 +107,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anushya16/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Anushya16/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anushya16/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
