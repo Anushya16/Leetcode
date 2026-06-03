@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Anushya16/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anushya16/Leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anushya16/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anushya16/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/Anushya16/Leetcode/tree/master/2235-add-two-integers) |
 ## Array
 |  |
