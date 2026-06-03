@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anushya16/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anushya16/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Anushya16/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Anushya16/Leetcode/tree/master/0053-maximum-subarray) |
 | [1929-concatenation-of-array](https://github.com/Anushya16/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anushya16/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Anushya16/Leetcode/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anushya16/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Anushya16/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
