@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anushya16/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anushya16/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Anushya16/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Anushya16/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Anushya16/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anushya16/Leetcode/tree/master/0412-fizz-buzz) |
 | [1871-jump-game-vii](https://github.com/Anushya16/Leetcode/tree/master/1871-jump-game-vii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Anushya16/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
 | ------- |
