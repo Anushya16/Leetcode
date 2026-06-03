@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Anushya16/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anushya16/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Anushya16/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Anushya16/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Anushya16/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anushya16/Leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anushya16/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
