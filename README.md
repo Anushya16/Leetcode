@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anushya16/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anushya16/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anushya16/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2574-left-and-right-sum-differences](https://github.com/Anushya16/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3161-block-placement-queries](https://github.com/Anushya16/Leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anushya16/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anushya16/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Anushya16/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1871-jump-game-vii](https://github.com/Anushya16/Leetcode/tree/master/1871-jump-game-vii) |
+| [2574-left-and-right-sum-differences](https://github.com/Anushya16/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
 | ------- |
